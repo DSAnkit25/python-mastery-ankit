@@ -1,122 +1,161 @@
-# 🐍 Python Mastery Journey – By Ankit DS
+# 🐍 Python Mastery — 30 Days, 4 Hours/Day  
+### By **Ankit D S**
 
-Welcome to my Python Mastery Repository.
+Welcome to my **30-Day Python Mastery Journey**, where I commit to becoming highly skilled in Python with the goal of transitioning into an **AI Automation Engineer (₹40–50 LPA target)**.
 
-This repo documents my 90-day journey to build strong Python foundations and grow into an **AI Automation Engineer**.  
-Every day includes:
-- Concepts learned  
-- Code exercises  
-- Mini-projects  
-- Real-world automation examples  
+This repo contains:
+- My daily progress (Day 1 → Day 30)
+- Practice code & exercises
+- Mini-projects
+- Automation scripts
+- Real-world AI automation project work
+- Notes and explanations
 
-If you’re learning Python or want to become an automation engineer, this repo may help you follow a structured path.
-
----
-
-## 📚 Learning Roadmap (90 Days)
-
-### **Month 1 – Core Python**
-- Variables, data types, conditionals  
-- Loops, functions  
-- Lists, tuples, sets, dictionaries  
-- File handling  
-- Error handling  
-- Modules & packages  
-- Basic problem solving  
-
-### **Month 2 – Advanced Python**
-- Object-Oriented Programming (OOP)  
-- Decorators, generators  
-- List/dict comprehension  
-- Lambdas  
-- Working with APIs  
-- JSON/XML handling  
-- Pandas + NumPy  
-- Data automation scripts  
-
-### **Month 3 – Python for AI Automation**
-- Async programming  
-- Multiprocessing / multithreading  
-- Python + AWS (Boto3)  
-- Python + Bedrock (LLM API calls)  
-- RAG pipeline basics  
-- Automation pipelines  
-- Automated PPT/PDF generation  
-- AI-assisted KPI reporting  
-- A/B testing automation  
+If you're also learning Python or aiming for automation/AI engineering, you can follow this roadmap.
 
 ---
 
-## 📁 Repository Structure
+# 🎯 **Goal of This Journey**
 
+To build strong, real-world Python skills including:
+- Core Python  
+- Data manipulation  
+- Scripting & automation  
+- APIs  
+- Async workflows  
+- AWS + Boto3  
+- Bedrock LLM integration  
+- Automation system design  
+- AI-driven data workflows  
 
----
-
-## 🎯 Goals of This Journey
-
-- Build expert-level Python skills  
-- Prepare for AI Automation Engineer roles  
-- Learn how to automate:
-  - Reports  
-  - Data pipelines  
-  - Experiments  
-  - Dashboards  
-  - KPI monitoring  
-- Build 3 end-to-end AI automation projects  
-- Create a strong GitHub + portfolio  
+This journey is designed to fast-track me to a **job-ready automation engineer profile**.
 
 ---
 
-## 🧪 Daily Workflow
+# 📅 **30-Day Python Mastery Roadmap (4 Hours/Day)**
 
-Each day includes:
+## ⭐ **Week 1 — Core Python (Days 1–7)**  
+Strengthen Python fundamentals and problem-solving.
 
-1️⃣ Learn concepts  
-2️⃣ Solve exercises  
-3️⃣ Build something small  
-4️⃣ Commit to GitHub  
-5️⃣ Write notes  
-6️⃣ Improve structure  
+- Day 1 → Variables, Types, Input/Output  
+- Day 2 → Strings, Lists  
+- Day 3 → Dicts, Sets, Tuples  
+- Day 4 → Loops  
+- Day 5 → Functions (Beginner → Advanced)  
+- Day 6 → Modules, Error Handling  
+- Day 7 → **Mini Project:** Personal Finance Tracker  
 
-This keeps learning consistent and practical.
-
----
-
-## 🚀 Projects I Will Build (Upcoming)
-
-### 🔹 **1. AI Automated WBR/MBR Generator**
-- Python + LLM + PPT automation  
-- End-to-end business reporting
-
-### 🔹 **2. Business Review Agent (RAG + Bedrock Agents)**
-- Query business data using natural language  
-- Summaries, charts, insights
-
-### 🔹 **3. A/B Testing Analysis Engine**
-- CUPED  
-- Auto-insights  
-- PDF report generation
+**Output:** Core Python solid + 1 project.
 
 ---
 
-## 🤝 Contributions / Collaboration
+## ⭐ **Week 2 — Data Handling & Automation (Days 8–14)**  
+Learn how to work with real datasets and create automation tools.
 
-If you’re learning Python or want to build automation projects, feel free to:
-- Fork the repo  
-- Add suggestions  
-- Submit issues  
-- Collaborate on mini-projects  
+- Day 8 → NumPy Basics  
+- Day 9 → Pandas Basics  
+- Day 10 → Pandas Advanced  
+- Day 11 → Data Cleaning Project  
+- Day 12 → Visualization (Matplotlib)  
+- Day 13 → Excel Automation  
+- Day 14 → **Mini Project:** Automated KPI Dashboard Script  
 
-Let’s grow together.
+**Output:** Data automation skills + 1 real-world project.
 
 ---
 
-## 📬 Contact
+## ⭐ **Week 3 — Automation Engineering (Days 15–21)**  
+Use Python to automate real workflows.
 
-**Author:** Ankit D S  
+- Day 15 → API Basics (GET)  
+- Day 16 → Advanced API Calls (POST, Auth)  
+- Day 17 → JSON/XML Parsing  
+- Day 18 → CLI Tools  
+- Day 19 → Multithreading & Multiprocessing  
+- Day 20 → Python Packaging  
+- Day 21 → **Mini Project:** API Fetch → Clean → Export Tool
+
+**Output:** Automation pipelines + tooling experience.
+
+---
+
+## ⭐ **Week 4 — AI Automation Engineering (Days 22–30)**  
+Combine Python + AWS + LLMs to create end-to-end automation.
+
+- Day 22 → AWS Boto3 (S3, IAM, EC2)  
+- Day 23 → Lambda + Python  
+- Day 24 → AWS Bedrock API  
+- Day 25 → Python + Bedrock Summaries  
+- Day 26 → Async Python  
+- Day 27 → Automation System Design  
+- Days 28–30 → **Final Project: AI WBR Automation Engine**
+
+### 🔥 **Final Project: AI WBR Automation Engine**
+- Read business data  
+- Clean + process metrics  
+- Generate insights with LLM  
+- Auto-create PPT or PDF  
+- Upload to S3  
+- Email report to stakeholders  
+
+**Output:** A fully automated, AI-powered reporting pipeline — excellent for portfolio & interviews.
+
+---
+
+# 📁 **Repository Structure**
+
+python-mastery-ankit/
+│
+├── day01_basics/
+├── day02_strings_lists/
+├── day03_dicts_sets/
+├── day04_loops/
+├── day05_functions/
+├── day06_modules_errors/
+├── day07_project_finance_tracker/
+│
+├── week2_data_automation/
+│ ├── pandas_basics/
+│ ├── pandas_advanced/
+│ ├── numpy/
+│ └── data_cleaning_project/
+│
+├── week3_automation_engineering/
+│ ├── APIs/
+│ ├── JSON_XML/
+│ ├── CLI_tools/
+│ └── scripts/
+│
+├── week4_ai_engineering/
+│ ├── boto3_basics/
+│ ├── bedrock_api/
+│ ├── async_python/
+│ └── automation_project/
+│
+└── projects/
+├── WBR_automation/
+├── A_B_test_automation/
+└── AI_report_agent/
+
+---
+
+# 🧪 **Daily Study Workflow (4 Hours)**
+
+1. **1 hour:** Learn concept  
+2. **1 hour:** Write examples & explanations  
+3. **1 hour:** Solve exercises  
+4. **1 hour:** Build a mini script / push to GitHub  
+
+Consistency > speed.
+
+---
+
+# 📬 **Author**
+
+**Name:** Ankit D S  
 **LinkedIn:** https://www.linkedin.com/in/ank8  
-**GitHub:** https://github.com/DSAnkit25
+**GitHub:** https://github.com/DSAnkit25  
 
 ---
 
-### ⭐ If you find this helpful, feel free to star ⭐ the repository!
+### ⭐ If you find this repo useful, feel free to star ⭐ and follow my journey!
